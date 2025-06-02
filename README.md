@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-👋 Hi there! I'm a Java Full Stack Developer Fresher<br>I'm passionate about building scalable, user-friendly applications using Java, Spring Boot, and modern web technologies. I enjoy combining backend logic with dynamic front-end interfaces. Recently, I've worked on projects involving user authentication, Excel integration, and a real-world Employee Management System using the SDLC and MVC architecture.<br><br>🔧 Tech Stack<br>Languages: Java, C++, JavaScript<br><br>Backend: Spring Boot, REST APIs<br><br>Frontend: HTML, CSS, JavaScript, basic React/MERN<br><br>Tools: Maven, Gradle, VS Code, Postman<br><br>Other: MySQL, Excel file handling<br><br><br>
+Hi there! I'm a Java Full Stack Developer Fresher<br>I'm passionate about building scalable, user-friendly applications using Java, Spring Boot, and modern web technologies. I enjoy combining backend logic with dynamic front-end interfaces. Recently, I've worked on projects involving user authentication, Excel integration, and a real-world Employee Management System using the SDLC and MVC architecture.<br><br>🔧 Tech Stack<br>Languages: Java, C++, JavaScript<br><br>Backend: Spring Boot, REST APIs<br><br>Frontend: HTML, CSS, JavaScript, basic React/MERN<br><br>Tools: Maven, Gradle, VS Code, Postman<br><br>Other: MySQL, Excel file handling<br><br><br>
 
 
 ## 🌐 Socials:
